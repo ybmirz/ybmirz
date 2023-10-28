@@ -24,7 +24,7 @@
 ### About me
 The name's mirza (short, miru) and I am a CS student at Nottingham University in Malaysia. I code here and there, but I mainly would like to focus on research and learning new things.
 
-- 🔭 I’m currently working on **various projects**, mainly school projects along with running my university society [UNM CSS!](https://github.com/UoN-Computer-Science-Society); Something that I'm currently proud of is working on **[Unilink](https://github.com/ruland39/Unilink)**
+- 🔭 I’m currently working on **various projects**, mainly school projects along with running my university society [UNM CSS!](https://github.com/UoN-Computer-Science-Society); Something that I'm currently proud of is working on **Nott-A-Student** under **[UNM's Computer Science Society](https://github.com/UoN-Computer-Science-Society)**. Running the society with various society projects, and utilising it as a platform to get juniors started in their developer journey. (I run it like it's my startup :D) 
 - 🌱 I’m currently learning **Java**, and **ASP.NET** for some web development. Of course, with tad bits of ML using Python, and web madingles using Node.js or Django. Aspiring to work on a quantum computer, but going to stick with quantum algorithms development and research for now 🤓
 - 💬 Ask me about **how im doing** and I'll reply wit **eh**
 - 📫 How to reach me: <a href="https://discord.com/channels/@574558925224017920">
