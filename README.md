@@ -22,10 +22,11 @@
 ---
 
 ### About me
-The name's mirza (short, miru) and I am a CS student at Nottingham University in Malaysia. I code here and there, but I mainly would like to focus on research and learning new things.
+The name's mirza (short, miru) and I am a graduated CS student at le University of Nottingham Malaysia. I code here and there, but I mainly would like to focus on research and learning new things.
 
-- 🔭 I’m currently working on **various projects**, mainly school projects along with running my university society [UNM CSS!](https://github.com/UoN-Computer-Science-Society); Something that I'm currently proud of is working on **Nott-A-Student** under **[UNM's Computer Science Society](https://github.com/UoN-Computer-Science-Society)**. Running the society with various society projects, and utilising it as a platform to get juniors started in their developer journey. (I run it like it's my startup :D) 
-- 🌱 I’m currently learning **Java**, and **ASP.NET** for some web development. Of course, with tad bits of ML using Python, and web madingles using Node.js or Django. Aspiring to work on a quantum computer, but going to stick with quantum algorithms development and research for now 🤓
+- 🔭 I’m currently working on **various projects** as software engineer, employed at an IoT company based in Malaysia, with other side projects - most notably [OtakOtak.ai!](https://otakotak.ai); riding the humungous waves of llm development, I've been intrigued in the idea of providing the same value consultants and analysts provide for big enterprise, to the smaller underserved SMEs. Generally, I believe the beginning of improvement is to measure - the same for businesses, they can grow better when they can (and know how to) measure.
+- One of my proudest work is on **Nott-A-Student** under **[UNM's Computer Science Society](https://github.com/UoN-Computer-Science-Society)**. Running the society with various society projects, and utilising it as a platform to get juniors started in their developer journey. (I ran it like it's my startup :D). It gave me an introduction to team building, leadership and everything extra - the pain and sweat of execution from idea. 
+- 🌱 I’m currently learning **Go**, and **React Native**, but I've been a generalist to all sorts of technologies, from the web to machine learning - since I'm just so enthusiastic at the idea that we made intelligence (or atleast a form of it) from sand. Aspiring to work on a quantum computer, but going to stick with quantum algorithms development and research for now 🤓 
 - 💬 Ask me about **how im doing** and I'll reply wit **eh**
 - 📫 How to reach me: <a href="https://discord.com/channels/@574558925224017920">
     <img src="https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge"/>
