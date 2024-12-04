@@ -25,7 +25,9 @@
 ⠀⠀⠀⠀⠀⢸⣿⡇⠀⠀⠀⠸⣿⣿⣿⣦⣀⣠⣴⡟⠋⢹⠀⠀⣀⣠⡴⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⢸⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </div>
 
-<h3 align="center"><strong> all hail lucy</strong></h3>
+<h3 align="center"><strong>
+"I've never wanted any of this. You never had to save me, all I've ever wanted is for you to live."
+</strong></h3>
 
 <div id="badges" align="center">
   <a href="http://linkedin.com/in/mirzahidayat">
@@ -46,6 +48,10 @@
 
 ### About me
 The name's mirza (short, miru) and I am a graduated CS student from le University of Nottingham Malaysia. I code here and there, but I mainly would like to focus on research and learning new things.
+
+Check out my rice:
+<a href="https://ibb.co/PCdGNs9"><img align="center" width="550px" src="https://i.ibb.co/9pryCFD/rice-2.png" alt="rice-2" border="0"></a><br>
+moree deeets here: https://github.com/ybmirz/dotfiles
 
 - 🔭 I’m currently working on **various projects** as software engineer, employed at an IoT company based in Malaysia, with other side projects - most notably [OtakOtak.ai!](https://otakotak.ai); riding the humungous waves of llm development, I've been intrigued in the idea of providing the same value consultants and analysts provide for big enterprise, to the smaller underserved SMEs. Generally, I believe the beginning of improvement is to measure - the same for businesses, they can grow better when they can (and know how to) measure.
 - One of my proudest work is on **Nott-A-Student** under **[UNM's Computer Science Society](https://github.com/UoN-Computer-Science-Society)**. Running the society with various society projects, and utilising it as a platform to get juniors started in their developer journey. (I ran it like it's my startup :D). It gave me an introduction to team building, leadership and everything extra - the pain and sweat of execution from idea. 
