@@ -57,6 +57,9 @@ moree deeets here: https://github.com/ybmirz/dotfiles
 - One of my proudest work is on **Nott-A-Student** under **[UNM's Computer Science Society](https://github.com/UoN-Computer-Science-Society)**. Running the society with various society projects, and utilising it as a platform to get juniors started in their developer journey. (I ran it like it's my startup :D). It gave me an introduction to team building, leadership and everything extra - the pain and sweat of execution from idea. 
 - 🌱 I’m currently learning **Go**, and **React Native**, but I've been a generalist to all sorts of technologies, from the web to machine learning - since I'm just so enthusiastic at the idea that we made intelligence (or atleast a form of it) from sand. Aspiring to work on a quantum computer, but going to stick with quantum algorithms development and research for now 🤓
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 - 📫 How to reach me: <a href="https://discord.com/channels/@574558925224017920">
     <img src="https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a> `xenonial` or <a href="http://linkedin.com/in/mirzahidayat">
