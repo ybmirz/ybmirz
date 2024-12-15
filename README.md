@@ -27,7 +27,7 @@ The name's mirza (short, miru) and I am a graduated CS student from le Universit
 
 <div align="center">
 Check out my rice: <br>
-<a href="https://ibb.co/PCdGNs9"><img width="550px" src="https://i.ibb.co/9pryCFD/rice-2.png" alt="rice-2" border="0"></a><br>
+<img width="550px" src="https://ibb.co/nD7cFm3" alt="rice-2" border="0"><br>
 moree deeets here: https://github.com/ybmirz/dotfiles <br>
 </div><br>
 
