@@ -23,7 +23,7 @@
 
 ### About me
 
-The name's mirza (short, miru) and I am a graduated CS student from le University of Nottingham Malaysia. I code here and there, but I mainly would like to focus on research and learning new things.
+The name's mirza (short, miru) and I am a graduated CS student from le University of Nottingham Malaysia. Currently a **software engineer team lead** building on **[IoTWatt](https://iotwatt.io)** @ **Saturn Pyro Sdn. Bhd.**, and a **mobile app developer**, various projects @ **Alevate Solutions**. Learn more about me here: https://mirzahiday.at
 
 <div align="center">
 Check out my rice: <br>
